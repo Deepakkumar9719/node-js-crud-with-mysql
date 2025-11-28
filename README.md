@@ -17,8 +17,8 @@ This is a simple **CRUD application** built with **Node.js**, **Express**, **MyS
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/node_crud_mvc.git
-cd node_crud_mvc
+git clone https://github.com/Deepakkumar9719/node-js-crud-with-mysql.git
+cd node-js-crud-with-mysql
 
 
 ## Create user table
