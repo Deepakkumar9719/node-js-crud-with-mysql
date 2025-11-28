@@ -1,9 +1,9 @@
 const express = require('express');
+const app = express();
 const bodyParser = require('body-parser');
 const dotenv = require('dotenv');
-const app = express();
-const webRoutes = require('./routes/web');
 const expressLayouts = require('express-ejs-layouts');
+const webRoutes = require('./routes/web');
 
 
 dotenv.config();
